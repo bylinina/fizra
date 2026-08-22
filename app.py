@@ -114,8 +114,8 @@ def pick_workout(workouts, hist, user):
 # ----------------------------------------------------------------------
 # UI
 # ----------------------------------------------------------------------
-st.set_page_config(page_title="Мои тренировки", page_icon="💪")
-st.title("💪 Мои тренировки")
+st.set_page_config(page_title="Тренировки", page_icon="💪")
+st.title("Тренировки 💪💀")
 
 workouts, meta = load_workouts()
 
